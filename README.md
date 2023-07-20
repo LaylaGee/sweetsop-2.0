@@ -16,4 +16,4 @@
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic">
 
-<param ve-map title="Distribution map" center="-6.997809, -48.334402" zoom="6">
+<param ve-map title="Distribution map" center="-6.997809, -48.334402" zoom="4">
